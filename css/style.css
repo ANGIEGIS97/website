@@ -1,0 +1,44 @@
+/*******************************/
+/********* CSS GENERAL *********/
+/*******************************/
+
+body {
+    color: gold;
+    background-color: purple;
+}
+h1 {
+    color: black;
+    background-color: pink;
+    border: 1px solid red;
+}
+h3 {
+    color: black;
+    background-color: pink;
+}
+h2 {
+    color: black;
+    background-color: pink;
+    border: 1px solid red;
+}
+
+
+h3 {
+    font-family: monospace;
+    font-weight: bold;
+    border: 1px solid red;
+}
+p {
+    font-size: 18px;
+
+}
+ul {
+    color: red;
+    background-color: white;
+}
+
+#btn-back-to-top {
+  position: fixed;
+  bottom: 85px;
+  right: 20px;
+  display: none;
+}
